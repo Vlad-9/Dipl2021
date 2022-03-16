@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - Result (4.1.0)
+  - SnapKit (4.2.0)
+  - SwiftMessages (9.0.2):
+    - SwiftMessages/App (= 9.0.2)
+  - SwiftMessages/App (9.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Moya
+  - NVActivityIndicatorView
+  - SnapKit
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - NVActivityIndicatorView
+    - Result
+    - SnapKit
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftMessages: 77b847d1405f99046ffbd0d856bc7d73e6892686
+
+PODFILE CHECKSUM: 57d6e10734f8c26fbac6e153d8dab2dfa2043a55
+
+COCOAPODS: 1.10.0
